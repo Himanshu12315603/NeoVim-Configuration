@@ -43,12 +43,6 @@ vim.keymap.set('i', 'jk', '<Esc>', { noremap = true, silent = true })
 
 
 
-
-
-
-
-
-
 -- lua/keymaps.lua
 
 -- Store terminal buffer and window IDs
