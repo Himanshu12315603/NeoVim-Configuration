@@ -99,8 +99,6 @@ vim.keymap.set('n', '<leader>t', toggle_terminal, { noremap = true, silent = tru
 
 
 
-
-
 -- -- Store terminal buffer and window IDs
 -- local terminal_buf = nil  -- Buffer ID for the terminal
 -- local terminal_win = nil  -- Window ID for the floating terminal
