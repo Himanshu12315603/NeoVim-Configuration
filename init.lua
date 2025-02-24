@@ -145,6 +145,12 @@ vim.keymap.set('n', '<leader>t', toggle_terminal, { noremap = true, silent = tru
 --   end
 -- end
 --
+--
+--
+--
+--
+--
+--
 -- -- Keymaps for normal and insert mode to toggle the floating terminal
 -- vim.api.nvim_set_keymap('n', '<C-_>', ":lua toggle_floating_terminal()<CR>", { noremap = true, silent = true })
 -- vim.api.nvim_set_keymap('i', '<C-_>', "<Esc>:lua toggle_floating_terminal()<CR>", { noremap = true, silent = true })
